@@ -31,8 +31,7 @@
 4、从书城或主页进入书籍详情界面
 ![image](https://github.com/cxbing1/BookWebsite/blob/master/readme-image/%E5%9B%BE%E7%89%875.png)
 5、点击加入书架借阅一本书籍，借阅成功后跳转值个人中心
-![image](https://github.com/cxbing1/BookWebsite/blob/master/readme-image/%E5%9B%BE%E7%89%876.png)
 书架中显示刚加入的书籍，同时历史借阅数目加一。
-![image](https://github.com/cxbing1/BookWebsite/blob/master/readme-image/%E5%9B%BE%E7%89%877.png)
+![image](https://github.com/cxbing1/BookWebsite/blob/master/readme-image/%E5%9B%BE%E7%89%876.png)
 6、点击删除归还该书籍，书架中该书籍删除，但历史借阅数目不变
-![image](https://github.com/cxbing1/BookWebsite/blob/master/readme-image/%E5%9B%BE%E7%89%878.png)
+![image](https://github.com/cxbing1/BookWebsite/blob/master/readme-image/%E5%9B%BE%E7%89%877.png)
