@@ -21,7 +21,7 @@
 
 三、测试用例
 
-下面测试一个从新用户注册到该用户借阅书籍到书架的过程
+下面测试一个从新用户注册到该用户借阅书籍到书架的过程<br>
 1、注册
 ![image](https://github.com/cxbing1/BookWebsite/blob/master/readme-image/%E5%9B%BE%E7%89%872.png)
 2、登录 
