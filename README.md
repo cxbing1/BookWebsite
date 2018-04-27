@@ -16,5 +16,5 @@
 （5）书籍分类功能<br>
 （6）书籍搜索功能<br>
 （7）借书/还书功能<br>
-2、根据需要实现的功能，大致得出网站设计思维导图：<br>
+2、根据需要实现的功能，得出网站设计思维导图：<br>
 ![image](https://github.com/cxbing1/BookWebsite/blob/master/readme-image/%E5%9B%BE%E7%89%871.png)
